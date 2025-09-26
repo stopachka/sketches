@@ -1,15 +1,9 @@
-# sketches
+# sketches in js
 
-To install dependencies:
+Learning about count-min sketches, by writing them in JS!
 
-```bash
-bun install
-```
-
-To run:
+Using DanielWoelfel's [attr-sketch](https://github.com/instantdb/instant/blob/main/server/src/instant/db/attr_sketch.clj) as the inspiration:
 
 ```bash
 bun run index.ts
 ```
-
-This project was created using `bun init` in bun v1.2.22. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
